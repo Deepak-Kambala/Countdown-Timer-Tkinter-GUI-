@@ -12,7 +12,7 @@ def start_countdown():
         return
 
     def countdown():
-        nonlocal total_time  # 👈 must come before using total_time
+        nonlocal total_time  
         while total_time >= 0:
             mins, secs = divmod(total_time, 60)
             time_str = f"{mins:02d}:{secs:02d}"
