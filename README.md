@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/39a18d02-0ed1-41ac-abea-9755d0d2ff5c) \\ Basic GUI
-![image](https://github.com/user-attachments/assets/e9913eee-d406-4cfc-a1f6-1c9b5bc6a001) \\ 100 Seconds => 1min 40sec
-![image](https://github.com/user-attachments/assets/3bcf21c2-6ff6-4923-867c-892e9803fff6) \\ Time finished - message box
+![image](https://github.com/user-attachments/assets/39a18d02-0ed1-41ac-abea-9755d0d2ff5c) 
+![image](https://github.com/user-attachments/assets/e9913eee-d406-4cfc-a1f6-1c9b5bc6a001) 
+![image](https://github.com/user-attachments/assets/3bcf21c2-6ff6-4923-867c-892e9803fff6) 
 
 This is a simple Countdown Timer desktop application built using Python's Tkinter library. The timer allows users to enter a time duration in seconds, start the countdown, and receive a notification when the timer reaches zero.
 
